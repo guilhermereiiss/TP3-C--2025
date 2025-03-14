@@ -1,4 +1,4 @@
-Aqui está um exemplo de README aprimorado para o seu repositório GitHub:
+
 
 ---
 
