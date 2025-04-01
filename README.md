@@ -4,7 +4,7 @@
 
 # Sistema de Venda de Ingressos e Matrículas em C#
 
-![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
+![C# Logo](https://i.ibb.co/JWDzb9n5/Blue-and-Black-Modern-Coding-School-Presentation.png)
 
 ## Descrição
 
